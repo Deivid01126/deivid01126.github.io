@@ -1,0 +1,20 @@
+{
+    "name": "jose/veterinaria",
+    "description": "veterinaria",
+    "type": "library",
+    "require": {
+        "tecnickcom/tcpdf": "^6.7"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jose\\Veterinaria\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David Guzman"
+        }
+    ],
+    "minimum-stability": "stable"
+}
